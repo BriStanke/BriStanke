@@ -11,7 +11,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50" height="50"> <img src="https://img.icons8.com/color/48/000000/pandas.png" width="50" height="50"> <img src="https://img.icons8.com/color/48/000000/numpy.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/320px-SpaCy_logo.svg.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" width="50" height="50"> <img src="https://img.icons8.com/color/48/000000/sql.png" width="50" height="50"> <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"> <img src="https://img.icons8.com/color/48/000000/github.png" width="50" height="50">
 
-### Most Used Language
+## Most Used Languages
 
-![GitHub Profile Languages](https://img.shields.io/badge/dynamic/json?label=Languages&query=%24.data&url=https://api.github.com/users/BriStanke/repos)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?BriStanke=Tanu-N-Prabhu&theme=blue-green)
 
