@@ -13,4 +13,5 @@
 
 ### Most Used Language
 
-![Top Language](https://img.shields.io/github/languages/top/BriStanke/Little-Sisters-Vocabulary)
+![GitHub Profile Languages](https://img.shields.io/badge/dynamic/json?label=Languages&query=%24.data&url=https://api.github.com/users/BriStanke/repos)
+
