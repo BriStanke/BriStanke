@@ -16,3 +16,4 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BriStanke&theme=blue-green)
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BriStanke&show_icons=true)
