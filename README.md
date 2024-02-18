@@ -7,3 +7,6 @@
 - 📫 Want to chat? Hit me up on LinkedIn [Your LinkedIn Profile]. I'm always down for a good chat about all things data science!
 - ⚡ Fun fact: Despite calling London home for the past four years, this lively city still manages to surprise me with its energy and diversity. And believe it or not, I still manage to get lost in its maze of streets every now and then!
 
+### Languages and Tools:
+
+![Python](https://img.icons8.com/color/48/000000/python.png) ![Jupyter Notebook](https://img.icons8.com/color/48/000000/jupyter-logo.png) ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) ![spaCy](https://img.icons8.com/color/48/000000/spacy.png) ![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)
